@@ -1,6 +1,6 @@
 ---
 name: Academic Essay
-description: Structure rigorous argumentative essays — thesis, evidence, counterargument, synthesis.
+description: Structures and drafts argumentative academic essays — a contestable thesis, claim-evidence-analysis body paragraphs, a fairly-engaged counterargument, and a synthesizing conclusion — marking every spot that needs a real citation instead of inventing sources. Use when a student or writer asks "help me outline my essay", "is my thesis strong enough", "structure my argument for this paper", or needs a draft refined for logic and formal register. Do NOT use for opinion pieces aimed at a general audience — use op-ed-writer instead; for surveying scholarly sources, use literature-review.
 ---
 
 # Academic Essay
