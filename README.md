@@ -9,7 +9,7 @@ For grad students, academics, and research analysts who need defensible writing,
 ## Install
 
 - **From the catalog:** [skillme.dev/pack/academic-researcher](https://skillme.dev/pack/academic-researcher) — install the whole pack into Claude in one step.
-- **With the skills CLI:** `npx skills add aouellets/academic-researcher`
+- **With the skills CLI:** `npx skills add SkillMedev/academic-researcher`
 - **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
 
 ## Skills in this pack
